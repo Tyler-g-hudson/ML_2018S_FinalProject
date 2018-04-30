@@ -1,0 +1,49 @@
+Unedited_No_Gen Score on 12_Dense:
+Accuracy: 23.390557939914164%
+Accuracy: 35.974304068522486%
+avg: 29.68%
+
+Unedited_Gen Score on 12_Dense:
+Accuracy: 34.06813627254509%
+Accuracy: 33.54564755838641%
+avg: 33.81%
+
+Histogram_No_Gen Score on 12_Dense:
+Accuracy: 8.097165991902834%
+Accuracy: 9.696969696969697%
+avg: 8.90%
+
+Histogram_Gen Score on 12_Dense:
+Accuracy: 11.336032388663968%
+Accuracy: 13.815789473684212%
+avg: 12.58%
+
+HSV_Histogram_No_Gen Score on 12_Dense:
+Accuracy: 13.755458515283841%
+Accuracy: 11.683168316831685%
+avg: 12.72%
+
+HSV_Histogram_Gen Score on 12_Dense:
+Accuracy: 13.939393939393941%
+Accuracy: 14.791666666666666%
+avg: 14.37%
+
+Vecsei_No_Gen Score on 12_Dense:
+Accuracy: 59.118236472945895%
+Accuracy: 47.82608695652174%
+avg: 53.47%
+
+Vecsei_Gen Score on 12_Dense:
+Accuracy: 53.911205073995774%
+Accuracy: 55.838641188959656%
+avg: 54.87%
+
+CIELUV_No_Gen Score on 12_Dense:
+Accuracy: 51.59235668789809%
+Accuracy: 49.284253578732105%
+avg: 50.44%
+
+CIELUV_Gen Score on 12_Dense:
+Accuracy: 50.317124735729394%
+Accuracy: 47.77070063694268%
+avg: 49.04%
